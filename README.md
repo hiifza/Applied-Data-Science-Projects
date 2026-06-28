@@ -1,4 +1,4 @@
-# Applied Data Science Projects
+# 📊 Applied Data Science Projects
 
 > A growing collection of applied data science projects completed through real-world analytical tasks, exploring data cleaning, visualization, statistics, and machine learning.
 
@@ -10,19 +10,17 @@ Data science is more than building models.
 
 It begins with understanding data, identifying patterns, asking meaningful questions, and transforming raw information into actionable insights.
 
-This repository documents my hands-on journey through applied data science, where each project focuses on solving a real analytical problem using Python and modern data science tools.
+This repository documents my hands-on journey through applied data science using Python and modern analytical tools.
 
-The projects included here cover the complete analytical workflow:
+Each project follows a structured workflow:
 
-* Data Collection & Understanding
+* Data Understanding
 * Data Cleaning & Preparation
 * Exploratory Data Analysis (EDA)
 * Statistical Analysis
 * Data Visualization
 * Insight Generation
-* Predictive Modeling
-
-Each task is treated as an independent end-to-end project while contributing to a broader learning journey in data science and analytics.
+* Predictive Analytics & Machine Learning (where applicable)
 
 ---
 
@@ -32,7 +30,7 @@ Each task is treated as an independent end-to-end project while contributing to 
 Applied-Data-Science-Projects/
 
 ├── Task_01_Student_Performance_Analysis/
-├── Task_02/
+├── Task_02_Titanic_Survival_Analysis/
 ├── Task_03/
 ├── Task_04/
 ├── Task_05/
@@ -41,41 +39,13 @@ Applied-Data-Science-Projects/
 
 ---
 
-## Current Projects
+# 🚀 Current Projects
 
-### Task 01 — Student Performance Analysis
+## 📊 Task 01 — Student Performance Analysis
 
-An end-to-end educational data analytics project focused on understanding the factors influencing student academic performance.
+An end-to-end educational data analytics project focused on identifying factors that influence student academic performance.
 
-#### Project Objectives
-
-* Explore student performance datasets
-* Assess data quality and consistency
-* Perform exploratory data analysis
-* Investigate relationships between academic and demographic variables
-* Generate meaningful insights through visualization and statistics
-* Compare performance across multiple subjects
-
-#### Datasets Used
-
-* student-mat.csv
-* student-por.csv
-
-#### Supporting Files
-
-* student.txt (Data Dictionary)
-* student-merge.R (Original Merge Logic)
-
-#### Technologies
-
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Jupyter Notebook
-
-#### Key Areas Explored
+### Key Areas Explored
 
 * Academic Performance Analysis
 * Study Time vs Grades
@@ -85,30 +55,56 @@ An end-to-end educational data analytics project focused on understanding the fa
 * Cross-Subject Performance Comparison
 * Correlation Analysis
 
+### Technologies
+
+Python • Pandas • NumPy • Matplotlib • Seaborn • Jupyter Notebook
+
+### Project Visuals
+
+![EDA Overview](Task_01_Student_Performance_Analysis/eda_overview.png)
+
+![Factor Analysis](Task_01_Student_Performance_Analysis/factor_analysis.png)
+
 ---
 
-## Skills Demonstrated
+## 🚢 Task 02 — Titanic Survival Analysis
+
+An exploratory data analysis project focused on understanding the factors that influenced passenger survival aboard the Titanic.
+
+### Questions Investigated
+
+* Who survived more: males or females?
+* Did passenger class affect survival?
+* How did age influence survival outcomes?
+* Did family structure impact survival chances?
+
+### Technologies
+
+Python • Pandas • NumPy • Matplotlib • Seaborn • Jupyter Notebook
+
+### Project Visuals
+
+![Titanic EDA](Task_02_Titanic_Survival_Analysis/eda_overview.png)
+
+---
+
+## 🛠 Skills Demonstrated
 
 ### Data Analysis
 
 * Data Cleaning
 * Data Validation
-* Feature Understanding
 * Exploratory Data Analysis
+* Feature Engineering
+* Statistical Analysis
 
 ### Visualization
 
 * Histograms
 * Scatter Plots
-* Comparative Charts
-* Statistical Visualizations
-
-### Analytics
-
-* Correlation Analysis
-* Trend Discovery
-* Comparative Analysis
-* Insight Extraction
+* Bar Charts
+* Comparative Analysis Charts
+* Correlation Heatmaps
 
 ### Tools & Technologies
 
@@ -122,28 +118,26 @@ An end-to-end educational data analytics project focused on understanding the fa
 
 ---
 
-## Why This Repository?
+## 🎯 Repository Goal
 
-The goal of this repository is not simply to store notebooks.
+The purpose of this repository is to document practical data science projects and demonstrate the process of converting raw data into meaningful insights through analytical thinking and data-driven exploration.
 
-It serves as a collection of practical projects that demonstrate the process of transforming raw datasets into meaningful insights through structured analytical thinking and data-driven exploration.
+Each task represents a complete project and contributes to a growing portfolio of applied data science work.
 
 ---
 
-## Upcoming Projects
+## 🔄 Upcoming Projects
 
-This repository is actively growing.
-
-Future tasks will introduce new datasets, analytical challenges, visualization techniques, and machine learning applications.
+Additional analytical and machine learning projects will be added as new tasks are completed.
 
 More projects coming soon.
 
 ---
 
-## Connect With Me
+## 👩‍💻 About Me
 
 **Hifza Amir**
 
 B.Tech CSE (Data Science)
 
-Passionate about Data Science, Analytics, Machine Learning, and building projects that turn data into insight.
+Passionate about Data Science, Analytics, Machine Learning, NLP, Explainable AI, and building projects that transform data into actionable insights.
