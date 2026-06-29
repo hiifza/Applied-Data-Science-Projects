@@ -97,9 +97,9 @@ Applied-Data-Science-Projects/
 | ✅ Task 01 | Student Performance Analysis | Completed |
 | ✅ Task 02 | Titanic Survival Analysis | Completed |
 | ✅ Task 03 | Advanced Titanic Exploratory Data Analysis | Completed |
-| 🔄 Task 04 | Coming Soon | In Progress |
-| ⏳ Task 05 | Coming Soon | Planned |
-| ⏳ Task 06 | Coming Soon | Planned |
+| 🔄 Task 04 | Coming Soon | 
+| ⏳ Task 05 | Coming Soon | 
+| ⏳ Task 06 | Coming Soon |
 
 ---
 
@@ -340,16 +340,6 @@ Each project follows a structured workflow—from understanding raw data and pre
 
 As new tasks are completed, this repository will continue to expand with projects covering exploratory data analysis, statistical techniques, feature engineering, predictive modeling, and machine learning.
 
----
-
-# 🚀 Upcoming Projects
-
-| Task | Focus |
-|------|-------------------------------|
-| Task 04 | Advanced Data Visualization |
-| Task 05 | Statistical Modeling |
-| Task 06 | Machine Learning Applications |
-| More | Coming Soon... |
 
 ---
 
