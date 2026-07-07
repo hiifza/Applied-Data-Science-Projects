@@ -79,7 +79,7 @@ Applied-Data-Science-Projects/
 │
 ├── Task_03_Advanced_Titanic_EDA/
 │
-├── Task_04/
+├── Task_04_Visualization_Dashboard/
 │
 ├── Task_05/
 │
@@ -97,7 +97,7 @@ Applied-Data-Science-Projects/
 | ✅ Task 01 | Student Performance Analysis | Completed |
 | ✅ Task 02 | Titanic Survival Analysis | Completed |
 | ✅ Task 03 | Advanced Titanic Exploratory Data Analysis | Completed |
-| 🔄 Task 04 | Coming Soon | 
+| 🔄 Task 04 | Visualization Dashboard | Completed 
 | ⏳ Task 05 | Coming Soon | 
 | ⏳ Task 06 | Coming Soon |
 
@@ -228,6 +228,57 @@ A comprehensive exploratory data analysis project that extends the Titanic datas
 
 `Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Jupyter Notebook`
 
+---
+
+# 📊 Task 04 — Data Visualization Dashboard
+
+> **Visual Storytelling | Analytical Dashboards | Insight Communication**
+
+A professional visualization dashboard built using the Titanic dataset, demonstrating how effective visual analytics can transform raw data into clear, actionable insights.
+
+### 📌 Objectives
+
+- Build a professional analytical dashboard
+- Compare passenger demographics through visualization
+- Explore survival patterns using multiple chart types
+- Present insights through visual storytelling
+- Communicate findings with publication-quality graphics
+
+### 🔍 Dashboard Highlights
+
+- 📊 Survival Distribution
+- 👥 Gender × Passenger Class Analysis
+- 👨‍👩‍👧 Family Size Analysis
+- 💰 Fare Distribution
+- 👶 Age Distribution
+- 📈 Age vs Fare Relationship
+- 🔥 Correlation Heatmap
+- ⚓ Embarkation Analysis
+- 📉 Missing Data Profile
+- 📋 Dashboard Summary
+
+### 🛠 Technologies
+
+`Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Jupyter Notebook`
+
+### 📷 Dashboard Preview
+
+<p align="center">
+
+<img src="Task_04_Visualization_Dashboard/images/dashboard_summary.png" width="47%">
+
+<img src="Task_04_Visualization_Dashboard/images/correlation_heatmap.png" width="47%">
+
+</p>
+
+<p align="center">
+
+<img src="Task_04_Visualization_Dashboard/images/gender_class_facet.png" width="47%">
+
+<img src="Task_04_Visualization_Dashboard/images/family_size_analysis.png" width="47%">
+
+</p>
+
 ### 📷 Project Preview
 
 <p align="center">
@@ -244,11 +295,13 @@ A comprehensive exploratory data analysis project that extends the Titanic datas
 
 # 📈 Project Progress
 
-| Project | Dataset | Status |
-|----------|---------|:------:|
-| Student Performance Analysis | UCI Student Performance | ✅ |
-| Titanic Survival Analysis | Kaggle Titanic | ✅ |
-| Advanced Titanic EDA | Kaggle Titanic | ✅ |
+| Project                      | Dataset                 | Status |
+| ---------------------------- | ----------------------- | :----: |
+| Student Performance Analysis | UCI Student Performance |    ✅   |
+| Titanic Survival Analysis    | Kaggle Titanic          |    ✅   |
+| Advanced Titanic EDA         | Kaggle Titanic          |    ✅   |
+| Visualization Dashboard      | Kaggle Titanic          |    ✅   |
+
 
 ---
 
@@ -280,7 +333,13 @@ A comprehensive exploratory data analysis project that extends the Titanic datas
 - Correlation Heatmaps
 - Comparative Visualizations
 - Statistical Dashboards
-- Professional Analytical Reports
+- Professional Dashboards
+- Boxplots
+- Violin Plots
+- Facet Grids
+- Heatmaps
+- Dashboard Design
+- Visual Storytelling
 
 ---
 
