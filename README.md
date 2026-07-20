@@ -1,315 +1,232 @@
 <div align="center">
 
-# 📊 Applied Data Science Projects
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C72B0,100:150458&height=200&section=header&text=Applied%20Data%20Science%20Projects&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Transforming%20Raw%20Data%20into%20Meaningful%20Insights&descAlignY=55&descSize=16" />
 
-### Transforming Raw Data into Meaningful Insights Through Analytics, Visualization, and Machine Learning
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4C72B0&center=true&vCenter=true&width=650&lines=Exploratory+Data+Analysis+%7C+Visualization;Statistical+Insight+Generation;Portfolio-Ready+Jupyter+Notebooks" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
+<br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Cleaning-✓-success?style=flat-square"/>
-  <img src="https://img.shields.io/badge/EDA-✓-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Data%20Visualization-✓-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Statistics-✓-purple?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-In%20Progress-red?style=flat-square"/>
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Projects-4%20Completed-2ea44f?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Actively%20Maintained-brightgreen?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-EDA%20%26%20Visualization-blueviolet?style=flat-square"/>
 
 </div>
 
----
+<br>
 
-# 📖 About This Repository
+## 📖 About This Repository
 
-Welcome to my **Applied Data Science Projects** repository.
+**Applied Data Science Projects** is a portfolio of four hands-on analytics projects, each built as a complete, end-to-end workflow — from raw, messy data to clear, actionable insight.
 
-This repository is a growing collection of practical data science projects completed through real-world analytical tasks. Every project focuses on solving a different problem using structured analytical thinking, statistical exploration, and effective data visualization.
+Instead of jumping straight to model-building, each project slows down to actually *understand* the data first: cleaning it, questioning it, visualizing it, and letting the patterns speak before drawing conclusions.
 
-Rather than simply building machine learning models, these projects emphasize understanding data, uncovering hidden patterns, generating meaningful insights, and communicating results effectively.
+<div align="center">
 
-Each task is designed as a complete end-to-end analytical workflow, following industry-inspired practices from data acquisition through insight generation.
+*"Data becomes valuable only when it is transformed into meaningful insights."*
 
----
+</div>
 
-# 🎯 Repository Objectives
+<br>
 
-This repository demonstrates practical experience in:
+## 🎯 Objectives
 
-- 📂 Data Understanding
-- 🧹 Data Cleaning & Preprocessing
-- 📊 Exploratory Data Analysis (EDA)
-- 📈 Statistical Analysis
-- 🎨 Data Visualization
-- 🔍 Pattern Discovery
-- 🧠 Feature Engineering
-- 📑 Insight Generation
-- 🤖 Machine Learning (where applicable)
+<div align="center">
 
----
+| | | |
+|:---:|:---:|:---:|
+| 📂 Data Understanding | 🧹 Data Cleaning & Preprocessing | 📊 Exploratory Data Analysis |
+| 📈 Statistical Analysis | 🎨 Data Visualization | 🔍 Pattern Discovery |
+| 🧠 Feature Engineering | 📑 Insight Generation | 📖 Data Storytelling |
 
-# 🛠️ Technology Stack
+</div>
+
+<br>
+
+## 🛠️ Technology Stack
 
 | Category | Tools & Libraries |
-|----------|-------------------|
+|:---|:---|
 | Programming | Python |
 | Data Analysis | Pandas, NumPy |
 | Visualization | Matplotlib, Seaborn |
 | Development | Jupyter Notebook |
 | Version Control | Git, GitHub |
 
----
+<br>
 
-# 📂 Repository Structure
+## 📂 Repository Structure
 
 ```text
 Applied-Data-Science-Projects/
-
 │
 ├── README.md
 │
 ├── Task_01_Student_Performance_Analysis/
-│
 ├── Task_02_Titanic_Survival_Analysis/
-│
 ├── Task_03_Advanced_Titanic_EDA/
-│
-├── Task_04_Visualization_Dashboard/
-│
-├── Task_05/
-│
-├── Task_06/
-│
-└── More Projects Coming Soon...
+└── Task_04_Visualization_Dashboard/
 ```
 
----
+<br>
 
-# 🗂️ Project Roadmap
+## 🗂️ Project Index
 
-| Task | Project | Status |
-|------|---------|:------:|
-| ✅ Task 01 | Student Performance Analysis | Completed |
-| ✅ Task 02 | Titanic Survival Analysis | Completed |
-| ✅ Task 03 | Advanced Titanic Exploratory Data Analysis | Completed |
-| 🔄 Task 04 | Visualization Dashboard | Completed 
-| ⏳ Task 05 | Coming Soon | 
-| ⏳ Task 06 | Coming Soon |
+| # | Project | Dataset | Focus Area | Status |
+|:---:|:---|:---|:---|:---:|
+| 01 | [Student Performance Analysis](#-task-01--student-performance-analysis) | UCI Student Performance | Educational Analytics | ✅ |
+| 02 | [Titanic Survival Analysis](#-task-02--titanic-survival-analysis) | Kaggle Titanic | Survival Patterns | ✅ |
+| 03 | [Advanced Titanic EDA](#-task-03--advanced-titanic-exploratory-data-analysis) | Kaggle Titanic | Feature Engineering | ✅ |
+| 04 | [Visualization Dashboard](#-task-04--data-visualization-dashboard) | Kaggle Titanic | Dashboard Design | ✅ |
 
----
+<br>
 
-# 🌟 What You'll Find Here
+## 🌟 What Every Project Includes
 
-Every project includes:
+<div align="center">
 
-- ✔ Professional Jupyter Notebook
-- ✔ Data Cleaning Workflow
-- ✔ Exploratory Data Analysis
-- ✔ Statistical Insights
-- ✔ Feature Engineering
-- ✔ High-Quality Visualizations
-- ✔ Well-Documented Code
-- ✔ Professional Markdown Documentation
-- ✔ Portfolio-Ready Presentation
+| | |
+|:---|:---|
+| ✔ Professional Jupyter Notebook | ✔ Feature Engineering |
+| ✔ Data Cleaning Workflow | ✔ High-Quality Visualizations |
+| ✔ Exploratory Data Analysis | ✔ Well-Documented Code |
+| ✔ Statistical Insights | ✔ Portfolio-Ready Presentation |
 
----
+</div>
 
-> **"Data becomes valuable only when it is transformed into meaningful insights."**
+<br>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:150458,100:4C72B0&height=3&section=header" width="100%"/>
 
 # 🚀 Project Showcase
 
----
+</div>
+<br>
 
-# 📊 Task 01 — Student Performance Analysis
+## 📊 Task 01 — Student Performance Analysis
+<sup>**Educational Data Analytics · Exploratory Data Analysis · Statistical Insights**</sup>
 
-> **Educational Data Analytics | Exploratory Data Analysis | Statistical Insights**
+An end-to-end educational data analytics project uncovering the factors that influence student academic performance, built on two real-world datasets.
 
-An end-to-end educational data analytics project focused on understanding the factors that influence student academic performance using two real-world datasets.
-
-### 📌 Objectives
-
-- Assess dataset quality and consistency
-- Explore academic performance patterns
-- Compare Mathematics and Portuguese scores
-- Investigate demographic and social factors
-- Generate meaningful statistical insights
-
-### 🔍 Key Analysis
-
-- 📈 Grade Distribution Analysis
-- 👨‍🎓 Gender-Based Performance Comparison
-- 📚 Study Time vs Grades
-- ❌ Failure Analysis
-- 📅 Attendance Analysis
-- 📊 Cross-Subject Performance Comparison
-- 🔗 Correlation Analysis
-
-### 🛠 Technologies
-
-`Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Jupyter Notebook`
-
-### 📷 Project Preview
+| | |
+|:---|:---|
+| **Objectives** | Assess dataset quality · Explore performance patterns · Compare Mathematics and Portuguese scores · Investigate demographic and social factors · Generate statistical insights |
+| **Key Analysis** | Grade Distribution · Gender-Based Comparison · Study Time vs Grades · Failure Analysis · Attendance Analysis · Cross-Subject Comparison · Correlation Analysis |
+| **Technologies** | `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Jupyter Notebook` |
 
 <p align="center">
-<img src="Task_01_Student_Performance_Analysis/eda_overview.png" width="47%">
-<img src="Task_01_Student_Performance_Analysis/factor_analysis.png" width="47%">
+<img src="Task_01_Student_Performance_Analysis/eda_overview.png" width="48%">
+<img src="Task_01_Student_Performance_Analysis/factor_analysis.png" width="48%">
 </p>
 
----
+<br>
 
-# 🚢 Task 02 — Titanic Survival Analysis
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:150458,100:4C72B0&height=2&section=header" width="100%"/>
+</div>
 
-> **Data Cleaning | Exploratory Data Analysis | Survival Pattern Investigation**
+<br>
 
-An exploratory data analysis project focused on understanding how demographic and socioeconomic factors influenced passenger survival aboard the Titanic.
+## 🚢 Task 02 — Titanic Survival Analysis
+<sup>**Data Cleaning · Exploratory Data Analysis · Survival Pattern Investigation**</sup>
 
-### 📌 Questions Explored
+An exploratory data analysis project examining how demographic and socioeconomic factors shaped passenger survival aboard the Titanic.
 
-- Who survived more?
-- Did passenger class influence survival?
-- How did age affect survival?
-- Did family size matter?
-- What demographic patterns emerged?
-
-### 🔍 Key Analysis
-
-- 🚢 Survival Distribution
-- 👨 Male vs Female Survival
-- 🎟 Passenger Class Analysis
-- 👶 Age Distribution
-- 💰 Fare Distribution
-- ⚓ Embarkation Port Analysis
-
-### 🛠 Technologies
-
-`Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Jupyter Notebook`
-
-### 📷 Project Preview
+| | |
+|:---|:---|
+| **Questions Explored** | Who survived more? · Did passenger class influence survival? · How did age affect survival? · Did family size matter? · What demographic patterns emerged? |
+| **Key Analysis** | Survival Distribution · Male vs Female Survival · Passenger Class Analysis · Age Distribution · Fare Distribution · Embarkation Port Analysis |
+| **Technologies** | `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Jupyter Notebook` |
 
 <p align="center">
-<img src="Task_02_Titanic_Survival_Analysis/eda_overview.png" width="48%">
+<img src="Task_02_Titanic_Survival_Analysis/eda_overview.png" width="60%">
 </p>
 
----
+<br>
 
-# 📈 Task 03 — Advanced Titanic Exploratory Data Analysis
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:150458,100:4C72B0&height=2&section=header" width="100%"/>
+</div>
 
-> **Advanced EDA | Feature Engineering | Group-Based Analysis | Data Storytelling**
+<br>
 
-A comprehensive exploratory data analysis project that extends the Titanic dataset investigation through advanced feature engineering, grouped statistical analysis, and professional data visualization.
+## 📈 Task 03 — Advanced Titanic Exploratory Data Analysis
+<sup>**Advanced EDA · Feature Engineering · Group-Based Analysis · Data Storytelling**</sup>
 
-### 📌 Objectives
+A deeper dive into the Titanic dataset, extending the analysis with advanced feature engineering, grouped statistical breakdowns, and professional visual storytelling.
 
-- Improve data quality through preprocessing
-- Engineer meaningful analytical features
-- Perform grouped statistical analysis
-- Discover deeper survival patterns
-- Present findings through professional visualizations
-
-### 🔍 Key Analysis
-
-- 🧹 Missing Value Analysis
-- 👨‍👩‍👧 Family Size Analysis
-- 👶 Survival by Age Group
-- ⚓ Survival by Embarkation Port
-- 📊 Correlation Analysis
-- 📈 Feature Engineering
-- 📚 GroupBy Analysis
-- 📖 Data Storytelling
-
-### 🛠 Technologies
-
-`Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Jupyter Notebook`
-
----
-
-# 📊 Task 04 — Data Visualization Dashboard
-
-> **Visual Storytelling | Analytical Dashboards | Insight Communication**
-
-A professional visualization dashboard built using the Titanic dataset, demonstrating how effective visual analytics can transform raw data into clear, actionable insights.
-
-### 📌 Objectives
-
-- Build a professional analytical dashboard
-- Compare passenger demographics through visualization
-- Explore survival patterns using multiple chart types
-- Present insights through visual storytelling
-- Communicate findings with publication-quality graphics
-
-### 🔍 Dashboard Highlights
-
-- 📊 Survival Distribution
-- 👥 Gender × Passenger Class Analysis
-- 👨‍👩‍👧 Family Size Analysis
-- 💰 Fare Distribution
-- 👶 Age Distribution
-- 📈 Age vs Fare Relationship
-- 🔥 Correlation Heatmap
-- ⚓ Embarkation Analysis
-- 📉 Missing Data Profile
-- 📋 Dashboard Summary
-
-### 🛠 Technologies
-
-`Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Jupyter Notebook`
-
-### 📷 Dashboard Preview
-
-<p align="center">
-
-<img src="Task_04_Visualization_Dashboard/images/dashboard_summary.png" width="47%">
-
-<img src="Task_04_Visualization_Dashboard/images/correlation_heatmap.png" width="47%">
-
-</p>
-
-<p align="center">
-
-<img src="Task_04_Visualization_Dashboard/images/gender_class_facet.png" width="47%">
-
-<img src="Task_04_Visualization_Dashboard/images/family_size_analysis.png" width="47%">
-
-</p>
-
-### 📷 Project Preview
+| | |
+|:---|:---|
+| **Objectives** | Improve data quality through preprocessing · Engineer analytical features · Perform grouped statistical analysis · Discover deeper survival patterns · Present findings visually |
+| **Key Analysis** | Missing Value Analysis · Family Size Analysis · Survival by Age Group · Survival by Embarkation Port · Correlation Analysis · Feature Engineering · GroupBy Analysis · Data Storytelling |
+| **Technologies** | `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Jupyter Notebook` |
 
 <p align="center">
 <img src="Task_03_Advanced_Titanic_EDA/eda_overview.png" width="48%">
 <img src="Task_03_Advanced_Titanic_EDA/correlation_heatmap.png" width="48%">
 </p>
-
 <p align="center">
 <img src="Task_03_Advanced_Titanic_EDA/survival_by_family_size.png" width="48%">
 <img src="Task_03_Advanced_Titanic_EDA/missing_data_profile.png" width="48%">
 </p>
 
----
+<br>
 
-# 📈 Project Progress
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:150458,100:4C72B0&height=2&section=header" width="100%"/>
+</div>
 
-| Project                      | Dataset                 | Status |
-| ---------------------------- | ----------------------- | :----: |
-| Student Performance Analysis | UCI Student Performance |    ✅   |
-| Titanic Survival Analysis    | Kaggle Titanic          |    ✅   |
-| Advanced Titanic EDA         | Kaggle Titanic          |    ✅   |
-| Visualization Dashboard      | Kaggle Titanic          |    ✅   |
+<br>
 
+## 📊 Task 04 — Data Visualization Dashboard
+<sup>**Visual Storytelling · Analytical Dashboards · Insight Communication**</sup>
 
----
+A professional, publication-quality visualization dashboard built on the Titanic dataset — demonstrating how effective visual analytics turns raw data into clear, actionable insight.
 
-# 💡 Skills Demonstrated
+| | |
+|:---|:---|
+| **Objectives** | Build a professional analytical dashboard · Compare demographics visually · Explore survival patterns using multiple chart types · Communicate findings with publication-quality graphics |
+| **Dashboard Highlights** | Survival Distribution · Gender × Class Analysis · Family Size Analysis · Fare Distribution · Age Distribution · Age vs Fare Relationship · Correlation Heatmap · Embarkation Analysis · Missing Data Profile |
+| **Technologies** | `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Jupyter Notebook` |
 
-## 📊 Data Analysis
+<p align="center">
+<img src="Task_04_Visualization_Dashboard/images/dashboard_summary.png" width="48%">
+<img src="Task_04_Visualization_Dashboard/images/correlation_heatmap.png" width="48%">
+</p>
+<p align="center">
+<img src="Task_04_Visualization_Dashboard/images/gender_class_facet.png" width="48%">
+<img src="Task_04_Visualization_Dashboard/images/family_size_analysis.png" width="48%">
+</p>
 
-- Exploratory Data Analysis (EDA)
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:150458,100:4C72B0&height=3&section=header" width="100%"/>
+</div>
+
+<br>
+
+## 💡 Skills Demonstrated
+
+<table width="100%">
+<tr>
+<th width="33%">📊 Data Analysis</th>
+<th width="33%">📈 Data Visualization</th>
+<th width="34%">🧰 Tools & Practices</th>
+</tr>
+<tr valign="top">
+<td>
+
+- Exploratory Data Analysis
 - Statistical Analysis
 - Data Cleaning & Preprocessing
 - Missing Value Handling
@@ -317,107 +234,80 @@ A professional visualization dashboard built using the Titanic dataset, demonstr
 - Feature Engineering
 - Correlation Analysis
 - GroupBy Analysis
-- Trend Discovery
-- Comparative Analysis
 - Insight Generation
-- Data Storytelling
 
----
+</td>
+<td>
 
-## 📈 Data Visualization
-
-- Histograms
-- Bar Charts
+- Histograms & Bar Charts
 - Scatter Plots
 - Distribution Plots
 - Correlation Heatmaps
-- Comparative Visualizations
-- Statistical Dashboards
-- Professional Dashboards
-- Boxplots
-- Violin Plots
+- Boxplots & Violin Plots
 - Facet Grids
-- Heatmaps
+- Comparative Visualizations
 - Dashboard Design
 - Visual Storytelling
 
----
+</td>
+<td>
 
-## 🧰 Tools & Technologies
+- Python (Pandas, NumPy)
+- Matplotlib & Seaborn
+- Jupyter Notebook
+- Git & GitHub
+- Reproducible Workflows
+- Clean Documentation
 
-<p align="left">
+</td>
+</tr>
+</table>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<br>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+## 📌 Repository Highlights
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<div align="center">
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+| | |
+|:---|:---|
+| ✔ End-to-End Data Analysis Projects | ✔ Exploratory Data Analysis (EDA) |
+| ✔ Professional Jupyter Notebooks | ✔ Statistical Analysis |
+| ✔ Real-World Analytical Tasks | ✔ Professional Data Visualizations |
+| ✔ Data Cleaning & Preprocessing | ✔ Well-Documented Code |
+| ✔ Feature Engineering | ✔ Portfolio-Ready Project Structure |
 
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+</div>
 
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<br>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:150458,100:4C72B0&height=3&section=header" width="100%"/>
+</div>
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<br>
 
-</p>
+## 👩‍💻 About Me
 
----
+<div align="center">
 
-# 📌 Repository Highlights
-
-✔ End-to-End Data Analysis Projects
-
-✔ Professional Jupyter Notebooks
-
-✔ Real-World Analytical Tasks
-
-✔ Data Cleaning & Preprocessing
-
-✔ Feature Engineering
-
-✔ Exploratory Data Analysis (EDA)
-
-✔ Statistical Analysis
-
-✔ Professional Data Visualizations
-
-✔ Well-Documented Code
-
-✔ Portfolio-Ready Project Structure
-
----
-
-# 🎯 Repository Goal
-
-This repository serves as a growing portfolio of practical data science projects built through real-world analytical tasks.
-
-Each project follows a structured workflow—from understanding raw data and preparing it for analysis to uncovering patterns, creating visualizations, and communicating meaningful insights.
-
-As new tasks are completed, this repository will continue to expand with projects covering exploratory data analysis, statistical techniques, feature engineering, predictive modeling, and machine learning.
-
-
----
-
-# 👩‍💻 About Me
-
-## Hifza Amir
-
+### Hifza Amir
 **B.Tech – Computer Science & Engineering (Data Science)**
 
 I enjoy solving analytical problems using data and transforming complex datasets into meaningful insights through visualization, statistical analysis, and machine learning.
 
-I'm continuously building practical projects to strengthen my skills in Data Science, Analytics, Machine Learning, NLP, and Explainable AI while documenting my learning journey through real-world applications.
+I'm continuously building practical projects to strengthen my skills in Data Science, Analytics, Machine Learning, NLP, and Explainable AI — documenting my learning journey through real-world applications.
 
----
+</div>
+
+<br>
 
 <div align="center">
 
 ### ⭐ If you found this repository interesting, consider giving it a star!
 
-### Thanks for visiting! 😊
+**Thanks for visiting! 😊**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C72B0,100:150458&height=110&section=footer" width="100%"/>
 
 </div>
